@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alumnos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="alumnos.xsd">
+  <alumno>
+    <nombre>Juan Pérez</nombre>
+    <control>A12345</control>
+    <edad>21</edad>
+    <carrera>Ingeniería en Sistemas</carrera>
+    <semestre>6</semestre>
+  </alumno>
+  <alumno>
+    <nombre>María López</nombre>
+    <control>A12346</control>
+    <edad>22</edad>
+    <carrera>Ingeniería Industrial</carrera>
+    <semestre>8</semestre>
+  </alumno>
+  <!-- Agrega otros 8 registros aquí -->
+</alumnos>
